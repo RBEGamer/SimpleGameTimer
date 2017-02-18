@@ -6,7 +6,7 @@
 //  Copyright © 2016 Marcel Ochsendorf. All rights reserved.
 //
 
-#include "frm_timer.hpp"
+#include "frm_timer.h"
 
 FRM::timer::timer(){
     setTimeScale(1.0f);
